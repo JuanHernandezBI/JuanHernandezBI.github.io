@@ -1,0 +1,21 @@
+/* Estilo personalizado */
+body {
+    background-color: #1063AC;
+    color: #ffffff;
+  }
+  
+  .navbar {
+    background-color: #1063AC;
+  }
+  
+  .logo {
+    height: 30px; /* Ajusta la altura del logo según sea necesario */
+    width: 250px;
+  }
+  
+  .embed-responsive {
+    border: 2px solid #FFA500; /* Borde naranja alrededor del video */
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  
